@@ -1,0 +1,2 @@
+Hello world, this is my firts text file in git
+so please be good
